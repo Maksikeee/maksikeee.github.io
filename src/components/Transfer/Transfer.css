@@ -1,0 +1,9 @@
+.transfer h3 {
+  text-align: center;
+  font-size: 36px;
+  margin-top: 30px;
+}
+
+.transfer__wrapper {
+  padding: 15px;
+}

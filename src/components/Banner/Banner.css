@@ -1,0 +1,19 @@
+.banner {
+  height: 600px;
+  color: white;
+  background: linear-gradient(rgba(41, 37, 37, 0.1), rgba(0, 0, 0, 0.4)),
+    url("../../../public/8.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner__text {
+  text-align: center;
+  font-size: 44px;
+  font-weight: 700;
+}
